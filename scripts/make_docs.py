@@ -14,7 +14,7 @@ valid_platforms = construct.ns_platform(sys.platform)
 template = """
 # Keys in `construct.yaml` file:
 
-This document describes each of they keys in the `construct.yaml` file,
+This document describes each of the keys in the `construct.yaml` file,
 which is the main configuration file of a constructor configuration
 directory.
 
